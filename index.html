@@ -24,7 +24,7 @@
 <section id="coming-soon">
 	<h1>Sample App</h1>
 	<p class="welcome">Sign-up to be notified of our launch.</p>
-	<form id="signup" action="/signup.php" method="post" target="popupwindow">
+	<form id="signup" action="" onsubmit="return false;" method="post" target="popupwindow">
 		<input class="required email" id="email" type="email" name="email" value="E-mail" onfocus="if (this.value == 'E-mail') {this.value = '';}" onblur="if (this.value == '') {this.value = 'E-mail';}" autocapitalize="off" autocorrect="off" />
 		<input class="submit" id="submit" type="submit" name="submit" value="Submit" />
 		<img src="/images/ajax-loader.gif" id="spinner" alt="Spinner" style="display:none;" />
