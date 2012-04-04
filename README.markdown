@@ -3,10 +3,8 @@
 Simple "Coming Soon" page with email capture.
 
 ## Install
-	$ git clone http://github.com/forrestgrant/textr
-	$ cd textr
-	$ rake build
-	$ rake install
+*	Download directory.
+*	Update `includes/config.php`
 
 ## config.php
 	<?php
