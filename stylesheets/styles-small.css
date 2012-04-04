@@ -1,0 +1,32 @@
+html, body {
+	min-height: 520px;
+}
+#coming-soon {
+	width: 400px;
+	margin: 60px auto auto auto;
+	font-size: 1.5em;
+}
+
+.welcome {
+	width: 300px;
+	margin: 40px auto 10px auto;
+}
+
+form {
+	width: 400px;
+	margin: auto auto 10px auto;
+}
+
+form input.email {
+	width: 250px;
+	height: 50px;
+	font-size: 1.3em;
+}
+
+form input.submit {
+	font-size: 1.3em;
+}
+
+footer p {
+	font-size: 0.5em;
+}
