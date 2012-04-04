@@ -17,3 +17,5 @@ Simple "Coming Soon" page with email capture.
 *	HTML5/CSS3
 * Responsive design using mediaqueries
 *	Sends email to recipient in `includes/config.php`
+
+To view an example, visit <a href="http://forrestgrant.github.com/Coming-Soon/">http://forrestgrant.github.com/Coming-Soon/</a>.
