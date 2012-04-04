@@ -25,7 +25,7 @@ class Notification {
 			$message .= "<strong>Someone has submitted the $this->app Signup Form:</strong><br/>";
 			$message .= "<p>$this->submitted_email</p>";
 			$message .= "</body></html>";
-			// mail($this->notify, $subject, $message, $headers);
+			mail($this->notify, $subject, $message, $headers);
 			return "HTTP/1.1 200 OK";
 		} else {
 			return "HTTP/1.1 503 Service Temporarily Unavailable";
