@@ -6,9 +6,14 @@ Simple "Coming Soon" page with email capture.
 *	Download directory.
 *	Update `includes/config.php`
 
-## config.php
+### config.php
 	<?php
 		$conf['app_name'] = "Sample App";
 		$conf['notify'] = "email@example.com";
 		$conf['notification_from'] = "server@example.com";
 	?>
+
+## Features
+*	HTML5/CSS3
+* Responsive design using mediaqueries
+*	Sends email to recipient in `includes/config.php`
