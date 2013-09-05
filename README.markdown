@@ -1,6 +1,6 @@
 # Coming Soon
 
-Simple "Coming Soon" page with email capture.
+Dead Simple "Coming Soon" page with email capture.
 
 ## Install
 *	Download directory.
